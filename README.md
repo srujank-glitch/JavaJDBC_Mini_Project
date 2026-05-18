@@ -24,7 +24,7 @@ A Java Web Application built using JDBC, Servlets and JSP.
 
 
 
-!\[Home Page](Screenshots/HomePage.png) Screenshots/AddReservation Page.png
+!\[Home Page](Screenshots/HomePage.png) Screenshots/AddReservationPage.png
 
 !\[Add Reservation](Screenshots/AddReservation Page.png)
 
